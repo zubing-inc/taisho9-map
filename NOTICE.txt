@@ -1,0 +1,17 @@
+大正九年 旧市町村チェックイン Web版
+
+旧市町村区域データ
+人文学オープンデータ共同利用センター（CODH）「Geoshapeリポジトリ（歴史的行政区域データセットβ版）」を加工して利用しています。
+https://geoshape.ex.nii.ac.jp/city/
+ライセンス: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+https://creativecommons.org/licenses/by-sa/4.0/
+
+加工内容
+Web表示向けのTopoJSON化、不要属性の削除、読み仮名の付加、境界・島しょ部・飛び地の確認済み補正を行っています。
+
+背景地図
+© OpenStreetMap contributors
+https://www.openstreetmap.org/copyright
+
+注意
+ブラウザ版はWebサイトを開いている間だけ位置情報を取得します。ブラウザ終了後のバックグラウンド常時チェックインには対応していません。
