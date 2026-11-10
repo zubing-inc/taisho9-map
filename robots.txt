@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zubing-inc.github.io/taisho9-map/sitemap.xml
